@@ -1,0 +1,1 @@
+# This is s simple sampe to reveal the core design about react.
